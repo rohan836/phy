@@ -1,0 +1,16 @@
+# Plan
+
+## What is $E=mc^2$?
+
+$E$ = Energy, $m$ = Mass, $c$ = Speed of light ($\approx 3 \times 10^8$ m/s)
+
+In simple terms: mass is a concentrated form of energy. A tiny amount of matter can be converted into a huge amount of energy because $c^2$ is an enormous number.
+
+$$E = mc^2$$
+
+Example: The mass of a single paperclip, if fully converted, could release energy equivalent to a nuclear bomb — enough to power a small city for years.
+
+This equation explains why:
+- The Sun shines (nuclear fusion converts mass to energy)
+- Nuclear power plants work (fission converts mass to energy)
+- Atomic bombs are so devastating
