@@ -28,3 +28,12 @@ This equation explains why:
 4. Interactive calculator
 5. Real-world problems (Hiroshima bomb, Sun's power, 1g of matter, city power)
 6. Computed solutions
+
+## HTML Interactive Page
+
+`e_mc2.html` — Self-contained interactive HTML page with:
+- Animated particle visualization of energy conversion
+- Interactive slider calculator (mass → energy)
+- Preset buttons (paperclip, apple, human, Earth)
+- Energy comparison bars
+- 4 interactive problem solvers with instant feedback
