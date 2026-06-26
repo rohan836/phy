@@ -1,3 +1,5 @@
+> **Note:** Always keep `plan.md` and `plan.txt` in sync — update both files together.
+
 # Plan
 
 ## What is $E=mc^2$?
